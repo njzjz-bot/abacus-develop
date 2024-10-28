@@ -33,7 +33,6 @@ author = 'ABACUS'
 extensions = [
         'myst_parser',
         'deepmodeling_sphinx',
-        'sphinxcontrib.jquery',
 ]
 myst_enable_extensions = [
     "amsmath",
